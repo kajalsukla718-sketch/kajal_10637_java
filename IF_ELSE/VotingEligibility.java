@@ -1,5 +1,3 @@
-package IF_ELSE;
-
 public class VotingEligibility {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
